@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mxkmln
 - 👾 Interested in personal projects and learning low code development using AI
-- 🛸 I'm currently learning to build landing pages for some ideas and using GEN AI models
+- 🛸 I'm currently learning to build vibe coded prototypes
   
 
 <!---
